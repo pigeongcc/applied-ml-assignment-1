@@ -1,3 +1,5 @@
+Colab model.ipynb: [link](https://colab.research.google.com/drive/1ZzxEX77AhZlFWkP3MBYkI4Tkn0fkF94a?usp=sharing).
+
 # 1. Dataset
 
 I collected a dataset of 38 photos with books (186 bboxes) and cars (88 bboxes). 
