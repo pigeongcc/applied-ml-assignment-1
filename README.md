@@ -111,13 +111,3 @@ Details:
 |book      |   5      |     15     |  0.719     | 0.682     |   0.675    |   0.24   |
 |car       |   5      |     13     |   0.48     | 0.538     |   0.461    |  0.182   |
 
-Evaluation results (averaged between classes):
-|   AP   |  AP50  |  AP75  |  APs   |  APm   |  APl   |
-|:------:|:-------|:------:|:-------|:------:|:------:|
-| 36.536 | 46.857 | 43.728 | 31.191 | 36.892 | 36.502 |
-
-Evaluation results (per-class):
-| class      | AP   | class      | AP     | class      | AP    |
-|:----------:|:-----|:----------:|:-------|:----------:|:------|
-| books-cars | nan  | book       | 73.073 | car        | 0.000 |
-
